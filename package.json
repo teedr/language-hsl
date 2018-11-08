@@ -12,6 +12,12 @@
   "bugs": {
     "url": "https://github.com/teedr/language-hsl/issues"
   },
+  "keywords": [
+    "hamilton",
+    "hsl",
+    "linter",
+    "lint"
+  ],
   "engines": {
     "atom": "*",
     "node": "*"
