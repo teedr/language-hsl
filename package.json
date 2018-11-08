@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.1.0",
   "name": "language-hsl",
   "description": "Atom language support for Hamilton Syntax Language (HSL)",
   "main": "lib/main",
@@ -16,8 +16,7 @@
     "atom": "*",
     "node": "*"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "coffeelint": "^1.10.1"
   }
