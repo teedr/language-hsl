@@ -1,6 +1,7 @@
 'scopeName': 'source.hsl'
 'fileTypes': [
   'hsl'
+  'hs_'
 ]
 'firstLineMatch': '(?i)-\\*-[^*]*(Mode:\\s*)?C(\\s*;.*?)?\\s*-\\*-'
 'name': 'hsl'
